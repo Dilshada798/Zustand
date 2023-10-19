@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+}
+
+.Posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+
+.Card {
+  border: 1px solid white;
+  margin: 10px;
+  padding: 15px;
+  background-color: #fff;
+}
+
+.title {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+
